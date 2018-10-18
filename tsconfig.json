@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "moduleResolution": "node",
+
+    "allowJs": false,
+    "alwaysStrict": true,
+    "strictNullChecks": true,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noFallthroughCasesInSwitch": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "declaration": true
+  },
+  "files": [
+    "./src/index.ts"
+  ]
+}

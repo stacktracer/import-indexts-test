@@ -1,0 +1,15 @@
+# Visual Studio Code
+.vscode/
+
+# Vim
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# NPM
+node_modules/
+
+# Build
+dist/
